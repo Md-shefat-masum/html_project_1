@@ -1,0 +1,130 @@
+.gallery_h4 {
+    /* color: blue; */
+    /* color: #5bdb57; */
+    /* color: rgb(201, 42, 121); */
+    color: white;
+    background-color: red;
+    height: 100px;
+    line-height: 100px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: sans-serif;
+    font-size: 40px;
+    text-transform: capitalize;
+}
+
+/*  */
+
+/* #h4_id{
+    color: rgb(158, 158, 158);
+    background-color: blueviolet;
+} */
+
+.contact_heading {
+    /* color: blue; */
+    /* color: #5bdb57; */
+    /* color: rgb(201, 42, 121); */
+    color: white;
+    background-color: rgb(19, 99, 92);
+    height: 50px;
+    line-height: 50px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: sans-serif;
+    font-size: 40px;
+    text-transform: capitalize;
+}
+
+.contact_heading {
+    color: red;
+}
+
+.sub_heading {
+    font-size: 12px;
+}
+
+p,
+h5,
+h6 {
+    font-size: 22px;
+    color: red;
+    font-weight: normal;
+}
+
+p span {
+    color: chocolate;
+    font-weight: bolder;
+    background-color: rgb(11, 21, 39);
+}
+
+.new_headign span {
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+.card {
+    /* 
+    border-width: 4px;
+    border-style: solid; 
+    border-color: rgb(71, 71, 71);
+    */
+    border: 4px solid red;
+    width: 455px;
+    border-radius: 25px;
+    /* margin-top: 20px;
+    margin-bottom: 200px;
+    margin-left: auto;
+    margin-right: auto; */
+    /* margin: 20px auto 100px auto; */
+    /* margin: 100px auto; */
+    margin: 20px auto 100px;
+    /* margin: 40px; */
+    overflow: hidden;
+    /* padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 100px; */
+    /* padding: 20px 30px 50px 30px; */
+    /* padding: 20px 60px; */
+    padding: 40px;
+
+}
+.card img{
+    width: 100%;
+}
+.card p,
+.card h4{
+    text-align: center;
+    text-align: right;
+    text-align: left;
+    text-align: justify;
+}
+
+.card h4{
+    text-transform: capitalize;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.card p{
+    color: black;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.block_element{
+    border: 1px solid red;
+    padding: 10px;
+    margin: 10px 10px;
+    display: block;
+}
+.inline_element{
+    border: 1px solid red;
+    padding: 10px;
+    margin: 10px 10px;
+    display: block;
+    background-color: rgb(44, 44, 44);
+    color: white;
+    border-radius: 25px;
+}
